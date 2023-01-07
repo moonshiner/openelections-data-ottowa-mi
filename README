@@ -1,0 +1,41 @@
+# README
+
+"Democratic Party ": "Democratic Party,",
+"Green Party ": "Green Party,",
+"Libertarian Party ": "Libertarian Party,",
+"Natural Law Party ": "Natural Law Party,",
+"Republican Party ": "Republican Party,",
+"U.S. Taxpayers Party ", "U.S. Taxpayers Party,",
+"Working Class Party ", "Working Class Party,",
+" DEM ": ",DEM,",
+" GRE ": ",GRE,",
+" LIB ": ",LIB",
+" NAL ": ",NAL,",
+" REP ": ",REP,",
+" UST ": ",UST,",
+" WC ": ",WC,",
+
+"Secretary of State"
+"Straight Party Ticket"
+"Governor and Lieutenant Governor"
+"State Senator"
+
+
+
+
+
+from PyPDF2 import PdfWriter
+
+merger = PdfWriter()
+Files = [
+"Ottowa/Ottowa-MI-precinctFile-210.pdf_page_1.pdf",
+"Ottowa/Ottowa-MI-precinctFile-210.pdf_page_2.pdf",
+"Ottowa/Ottowa-MI-precinctFile-210.pdf_page_3.pdf",
+"Ottowa/Ottowa-MI-precinctFile-210.pdf_page_4.pdf"
+]
+
+for pdf in Files:
+    merger.append(pdf)
+
+merger.write("merged-pdf.pdf")
+merger.close()
