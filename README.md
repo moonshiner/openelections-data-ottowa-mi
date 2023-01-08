@@ -21,3 +21,7 @@ cleanly.  For every precient.
 
 ### Splitting the PDF
 
+splitpdf.py uses pyPDF2 to read in the PDF and write out each page as a
+seperate file. Additionaly it has a check to see if the page contains
+results for the relevanct races, and writes those only.
+
