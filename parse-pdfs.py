@@ -24,7 +24,9 @@ class CurLine:
         if not self.precient:
             self.precient = ntext
     def addline(self, text):
-        self.array.append(text)
+        # if ',' in text:
+            # print(f"comma {text}")
+        self.array.append(text.replace(',', ''))
     def addparts(self):
         if self.array:
             # print("cur", self.array)
@@ -95,7 +97,6 @@ def getraces(orecords):
     for race in Races or []:
         for r in race:
             print(f"{','.join(r)}")
-        print(",,,,")
 
 def main():
     parser = argparse.ArgumentParser()

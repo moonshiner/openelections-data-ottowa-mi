@@ -1,0 +1,31 @@
+# finishedproduct.txt
+
+county, precinct, office, district, party, candidate, votes
+
+If a county provides a breakdown of voting method (ie, election day vs. absentee), please include those as separate columns.
+
+ The files should go in the 2022 folder in this repository and should have the following filename structure:
+
+20221108__mi__general__{county}__precinct.csv, where county is the lower case version of the county name, with punctuation removed.
+
+If the county file also provides a breakdown of votes by method, include that using the following headers, where applicable:
+
+early_voting, election_day, provisional, mail
+
+If there are other possible vote types, include them, using a lowercase version of the vote type with underscores instead of spaces for the column name.
+
+Include the following offices:
+
+    Registered Voters (if available)
+    Ballots Cast (if available)
+    Straight Party
+    Governor
+    Secretary of State
+    Attorney General
+    U.S. House
+    State Senate
+    State House
+
+If a county provides precinct results for Write-in candidates, they should be grouped in a single row for each precinct and office with a candidate value of Write-ins.
+
+If a county provides Under Votes or Over Votes, those should be recorded in the same way, with a single row per precinct and office with Over Votes and Under Votes as the candidate values.
