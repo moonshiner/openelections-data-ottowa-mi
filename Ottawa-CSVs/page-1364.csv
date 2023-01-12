@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Wright Township, Precinct 1B",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,78,97,175
 Ottawa,"Wright Township, Precinct 1B",Governor,,Tudor M. Dixon Shane Hernandez,REP,219,63,282
 Ottawa,"Wright Township, Precinct 1B",Governor,,Mary Buzuma Brian Ellison,LIB,3,1,4

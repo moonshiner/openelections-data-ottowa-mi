@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Holland Charter Township, Precinct 1B",State Senate,,Kim S. Nagy,DEM,209,166,375
 Ottawa,"Holland Charter Township, Precinct 1B",State Senate,,Roger Victory,REP,325,134,459
 Ottawa,"Holland Charter Township, Precinct 1B",State Senate,,Jessica L. Fox,LIB,18,5,23

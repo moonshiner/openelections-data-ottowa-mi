@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Zeeland Township, Precinct 4A",State Senate,,Kim S. Nagy,DEM,13,6,19
 Ottawa,"Zeeland Township, Precinct 4A",State Senate,,Roger Victory,REP,156,66,222
 Ottawa,"Zeeland Township, Precinct 4A",State Senate,,Jessica L. Fox,LIB,2,2,4

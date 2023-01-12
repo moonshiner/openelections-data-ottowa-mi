@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",Straight Party,,Democratic Party,DEM,71,61,132
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",Straight Party,,Republican Party,REP,309,172,481
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",Straight Party,,Libertarian Party,LIB,1,0,1

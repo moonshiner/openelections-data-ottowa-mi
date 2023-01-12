@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 4, Precinct 10",Secretary of State,,Jocelyn Benson,DEM,240,215,455
 Ottawa,"City of Holland, Ward 4, Precinct 10",Secretary of State,,Kristina Elaine Karamo,REP,190,69,259
 Ottawa,"City of Holland, Ward 4, Precinct 10",Secretary of State,,Gregory Scott Stempfle,LIB,9,2,11

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Olive Township, Precinct 1",State Senate,,Kim S. Nagy,DEM,163,77,240
 Ottawa,"Olive Township, Precinct 1",State Senate,,Roger Victory,REP,466,182,648
 Ottawa,"Olive Township, Precinct 1",State Senate,,Jessica L. Fox,LIB,22,2,24

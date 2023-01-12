@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Georgetown Charter Township, Precinct 9",State Senate,,Kim S. Nagy,DEM,280,256,536
 Ottawa,"Georgetown Charter Township, Precinct 9",State Senate,,Roger Victory,REP,839,330,1169
 Ottawa,"Georgetown Charter Township, Precinct 9",State Senate,,Jessica L. Fox,LIB,30,7,37

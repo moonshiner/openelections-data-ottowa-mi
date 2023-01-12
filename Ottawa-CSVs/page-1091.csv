@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Port Sheldon Township, Precinct 1B",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,268,396,664
 Ottawa,"Port Sheldon Township, Precinct 1B",Governor,,Tudor M. Dixon Shane Hernandez,REP,653,401,1054
 Ottawa,"Port Sheldon Township, Precinct 1B",Governor,,Mary Buzuma Brian Ellison,LIB,6,1,7

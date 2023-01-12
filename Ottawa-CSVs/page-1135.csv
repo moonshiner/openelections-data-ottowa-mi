@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Robinson Township, Precinct 2",State Senate,,Kim S. Nagy,DEM,130,135,265
 Ottawa,"Robinson Township, Precinct 2",State Senate,,Roger Victory,REP,463,171,634
 Ottawa,"Robinson Township, Precinct 2",State Senate,,Jessica L. Fox,LIB,10,8,18

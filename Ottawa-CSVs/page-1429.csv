@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Zeeland Township, Precinct 4B",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,150,107,257
 Ottawa,"Zeeland Township, Precinct 4B",Governor,,Tudor M. Dixon Shane Hernandez,REP,503,145,648
 Ottawa,"Zeeland Township, Precinct 4B",Governor,,Mary Buzuma Brian Ellison,LIB,12,3,15

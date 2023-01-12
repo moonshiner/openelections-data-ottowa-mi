@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Park Township, Precinct 7",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,309,447,756
 Ottawa,"Park Township, Precinct 7",Governor,,Tudor M. Dixon Shane Hernandez,REP,540,332,872
 Ottawa,"Park Township, Precinct 7",Governor,,Mary Buzuma Brian Ellison,LIB,12,2,14

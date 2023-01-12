@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Grand Haven, Precinct 4",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,522,447,969
 Ottawa,"City of Grand Haven, Precinct 4",Governor,,Tudor M. Dixon Shane Hernandez,REP,470,147,617
 Ottawa,"City of Grand Haven, Precinct 4",Governor,,Mary Buzuma Brian Ellison,LIB,14,10,24

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Tallmadge Charter Township, Precinct 2A",Straight Party,,Democratic Party,DEM,58,121,179
 Ottawa,"Tallmadge Charter Township, Precinct 2A",Straight Party,,Republican Party,REP,306,217,523
 Ottawa,"Tallmadge Charter Township, Precinct 2A",Straight Party,,Libertarian Party,LIB,6,0,6

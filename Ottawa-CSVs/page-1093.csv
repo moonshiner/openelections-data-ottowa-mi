@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Port Sheldon Township, Precinct 1B",State Senate,,Kim S. Nagy,DEM,235,339,574
 Ottawa,"Port Sheldon Township, Precinct 1B",State Senate,,Roger Victory,REP,660,445,1105
 Ottawa,"Port Sheldon Township, Precinct 1B",State Senate,,Jessica L. Fox,LIB,16,10,26

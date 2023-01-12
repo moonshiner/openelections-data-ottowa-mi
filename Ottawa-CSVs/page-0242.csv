@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 1, Precinct 1",Straight Party,,Democratic Party,DEM,124,142,266
 Ottawa,"City of Holland, Ward 1, Precinct 1",Straight Party,,Republican Party,REP,189,98,287
 Ottawa,"City of Holland, Ward 1, Precinct 1",Straight Party,,Libertarian Party,LIB,4,1,5

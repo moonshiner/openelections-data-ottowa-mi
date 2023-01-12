@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Grand Haven, Precinct 4",Straight Party,,Democratic Party,DEM,247,237,484
 Ottawa,"City of Grand Haven, Precinct 4",Straight Party,,Republican Party,REP,261,89,350
 Ottawa,"City of Grand Haven, Precinct 4",Straight Party,,Libertarian Party,LIB,11,0,11

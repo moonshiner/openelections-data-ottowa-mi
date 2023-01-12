@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Georgetown Charter Township, Precinct 15",Straight Party,,Democratic Party,DEM,114,195,309
 Ottawa,"Georgetown Charter Township, Precinct 15",Straight Party,,Republican Party,REP,454,439,893
 Ottawa,"Georgetown Charter Township, Precinct 15",Straight Party,,Libertarian Party,LIB,0,1,1

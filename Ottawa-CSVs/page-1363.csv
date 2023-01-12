@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Wright Township, Precinct 1B",Straight Party,,Democratic Party,DEM,38,49,87
 Ottawa,"Wright Township, Precinct 1B",Straight Party,,Republican Party,REP,135,45,180
 Ottawa,"Wright Township, Precinct 1B",Straight Party,,Libertarian Party,LIB,1,1,2

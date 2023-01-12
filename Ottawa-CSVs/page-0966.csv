@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Olive Township, Precinct 1",Straight Party,,Democratic Party,DEM,118,56,174
 Ottawa,"Olive Township, Precinct 1",Straight Party,,Republican Party,REP,345,138,483
 Ottawa,"Olive Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3,1,4

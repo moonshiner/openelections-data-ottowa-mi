@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,11,29,40
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Governor,,Tudor M. Dixon Shane Hernandez,REP,52,21,73
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Governor,,Mary Buzuma Brian Ellison,LIB,2,0,2

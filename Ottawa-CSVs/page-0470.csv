@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Crockery Township, Precinct 2",Straight Party,,Democratic Party,DEM,66,56,122
 Ottawa,"Crockery Township, Precinct 2",Straight Party,,Republican Party,REP,241,97,338
 Ottawa,"Crockery Township, Precinct 2",Straight Party,,Libertarian Party,LIB,3,0,3

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Georgetown Charter Township, Precinct 7",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,370,305,675
 Ottawa,"Georgetown Charter Township, Precinct 7",Governor,,Tudor M. Dixon Shane Hernandez,REP,1009,297,1306
 Ottawa,"Georgetown Charter Township, Precinct 7",Governor,,Mary Buzuma Brian Ellison,LIB,15,3,18

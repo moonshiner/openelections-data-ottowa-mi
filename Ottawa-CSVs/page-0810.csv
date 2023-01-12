@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Holland Charter Township, Precinct 4",Secretary of State,,Jocelyn Benson,DEM,339,323,662
 Ottawa,"Holland Charter Township, Precinct 4",Secretary of State,,Kristina Elaine Karamo,REP,333,194,527
 Ottawa,"Holland Charter Township, Precinct 4",Secretary of State,,Gregory Scott Stempfle,LIB,13,1,14

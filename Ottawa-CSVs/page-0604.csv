@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Georgetown Charter Township, Precinct 10",Secretary of State,,Jocelyn Benson,DEM,353,364,717
 Ottawa,"Georgetown Charter Township, Precinct 10",Secretary of State,,Kristina Elaine Karamo,REP,747,346,1093
 Ottawa,"Georgetown Charter Township, Precinct 10",Secretary of State,,Gregory Scott Stempfle,LIB,23,7,30

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Democratic Party,DEM,22,12,34
 Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Republican Party,REP,18,6,24
 Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Libertarian Party,LIB,0,0,0

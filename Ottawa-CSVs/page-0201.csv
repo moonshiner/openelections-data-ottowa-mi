@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Grand Haven, Precinct 1",State Senate,,Kim S. Nagy,DEM,259,365,624
 Ottawa,"City of Grand Haven, Precinct 1",State Senate,,Roger Victory,REP,293,225,518
 Ottawa,"City of Grand Haven, Precinct 1",State Senate,,Jessica L. Fox,LIB,22,4,26

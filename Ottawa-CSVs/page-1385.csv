@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Zeeland Township, Precinct 1",Straight Party,,Democratic Party,DEM,127,72,199
 Ottawa,"Zeeland Township, Precinct 1",Straight Party,,Republican Party,REP,508,183,691
 Ottawa,"Zeeland Township, Precinct 1",Straight Party,,Libertarian Party,LIB,1,0,1

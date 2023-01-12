@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Zeeland Township, Precinct 4A",Secretary of State,,Jocelyn Benson,DEM,17,10,27
 Ottawa,"Zeeland Township, Precinct 4A",Secretary of State,,Kristina Elaine Karamo,REP,153,64,217
 Ottawa,"Zeeland Township, Precinct 4A",Secretary of State,,Gregory Scott Stempfle,LIB,1,0,1

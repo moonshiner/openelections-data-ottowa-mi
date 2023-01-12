@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Robinson Township, Precinct 3B",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,59,45,104
 Ottawa,"Robinson Township, Precinct 3B",Governor,,Tudor M. Dixon Shane Hernandez,REP,284,97,381
 Ottawa,"Robinson Township, Precinct 3B",Governor,,Mary Buzuma Brian Ellison,LIB,3,4,7

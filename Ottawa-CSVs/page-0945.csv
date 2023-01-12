@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Jamestown Charter Township, Precinct 3",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,112,74,186
 Ottawa,"Jamestown Charter Township, Precinct 3",Governor,,Tudor M. Dixon Shane Hernandez,REP,456,202,658
 Ottawa,"Jamestown Charter Township, Precinct 3",Governor,,Mary Buzuma Brian Ellison,LIB,6,2,8

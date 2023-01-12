@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Blendon Township, Precinct 1A",State Senate,,Kim S. Nagy,DEM,15,13,28
 Ottawa,"Blendon Township, Precinct 1A",State Senate,,Roger Victory,REP,146,53,199
 Ottawa,"Blendon Township, Precinct 1A",State Senate,,Jessica L. Fox,LIB,2,2,4

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Allendale Charter Township, Precinct 2",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,312,261,573
 Ottawa,"Allendale Charter Township, Precinct 2",Governor,,Tudor M. Dixon Shane Hernandez,REP,784,317,1101
 Ottawa,"Allendale Charter Township, Precinct 2",Governor,,Mary Buzuma Brian Ellison,LIB,10,9,19

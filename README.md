@@ -2,7 +2,16 @@
 Processing used in parsing Ottowa-MI election data
 
 This repo works on parsing and processing the Ottowa MI election data.
-This work uses data from https://github.com/openelections/openelections-data-mi/issues/56
+This work uses data from
+https://github.com/openelections/openelections-data-mi/issues/56
+
+## Multiple Counties use this format
+
+- Genesee
+- Livingston
+- Montcalm
+- Muskegon
+- Ottawa
 
 The Ottowa MI data from 2022 General is 1438 Pages!
 2/3 of the pages involve local races, which we ignore.

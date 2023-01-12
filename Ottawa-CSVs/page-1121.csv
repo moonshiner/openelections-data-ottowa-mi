@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Robinson Township, Precinct 1",Straight Party,,Democratic Party,DEM,104,156,260
 Ottawa,"Robinson Township, Precinct 1",Straight Party,,Republican Party,REP,335,179,514
 Ottawa,"Robinson Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3,3,6

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Allendale Charter Township, Precinct 2",State Senate,,David LaGrand,DEM,253,220,473
 Ottawa,"Allendale Charter Township, Precinct 2",State Senate,,Mark Huizenga,REP,810,351,1161
 Ottawa,"Allendale Charter Township, Precinct 2",State Senate,,Theodore Petzold,LIB,28,10,38

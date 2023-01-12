@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Park Township, Precinct 1",Straight Party,,Democratic Party,DEM,184,279,463
 Ottawa,"Park Township, Precinct 1",Straight Party,,Republican Party,REP,353,274,627
 Ottawa,"Park Township, Precinct 1",Straight Party,,Libertarian Party,LIB,4,2,6

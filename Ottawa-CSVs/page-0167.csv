@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Coopersville, Precinct 1",Straight Party,,Democratic Party,DEM,103,79,182
 Ottawa,"City of Coopersville, Precinct 1",Straight Party,,Republican Party,REP,285,81,366
 Ottawa,"City of Coopersville, Precinct 1",Straight Party,,Libertarian Party,LIB,5,1,6

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Jamestown Charter Township, Precinct 1A",State Senate,,Kim S. Nagy,DEM,20,24,44
 Ottawa,"Jamestown Charter Township, Precinct 1A",State Senate,,Roger Victory,REP,130,70,200
 Ottawa,"Jamestown Charter Township, Precinct 1A",State Senate,,Jessica L. Fox,LIB,3,2,5

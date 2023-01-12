@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Coopersville, Precinct 1",Secretary of State,,Jocelyn Benson,DEM,214,130,344
 Ottawa,"City of Coopersville, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,435,106,541
 Ottawa,"City of Coopersville, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,14,2,16

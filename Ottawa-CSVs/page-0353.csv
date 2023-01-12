@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 6, Precinct 15",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,446,481,927
 Ottawa,"City of Holland, Ward 6, Precinct 15",Governor,,Tudor M. Dixon Shane Hernandez,REP,468,252,720
 Ottawa,"City of Holland, Ward 6, Precinct 15",Governor,,Mary Buzuma Brian Ellison,LIB,6,11,17

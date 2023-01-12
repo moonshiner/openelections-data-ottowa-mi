@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Grand Haven Charter Township, Precinct 7",State Senate,,Kim S. Nagy,DEM,335,426,761
 Ottawa,"Grand Haven Charter Township, Precinct 7",State Senate,,Roger Victory,REP,599,329,928
 Ottawa,"Grand Haven Charter Township, Precinct 7",State Senate,,Jessica L. Fox,LIB,29,13,42

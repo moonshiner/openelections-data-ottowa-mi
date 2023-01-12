@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Coopersville, Precinct 1",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,208,132,340
 Ottawa,"City of Coopersville, Precinct 1",Governor,,Tudor M. Dixon Shane Hernandez,REP,454,105,559
 Ottawa,"City of Coopersville, Precinct 1",Governor,,Mary Buzuma Brian Ellison,LIB,10,1,11

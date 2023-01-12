@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Allendale Charter Township, Precinct 2",Straight Party,,Democratic Party,DEM,141,123,264
 Ottawa,"Allendale Charter Township, Precinct 2",Straight Party,,Republican Party,REP,458,233,691
 Ottawa,"Allendale Charter Township, Precinct 2",Straight Party,,Libertarian Party,LIB,5,2,7

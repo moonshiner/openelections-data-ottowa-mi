@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 1, Precinct 3",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,244,182,426
 Ottawa,"City of Holland, Ward 1, Precinct 3",Governor,,Tudor M. Dixon Shane Hernandez,REP,280,109,389
 Ottawa,"City of Holland, Ward 1, Precinct 3",Governor,,Mary Buzuma Brian Ellison,LIB,10,3,13

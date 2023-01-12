@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Crockery Township, Precinct 2",Secretary of State,,Jocelyn Benson,DEM,161,149,310
 Ottawa,"Crockery Township, Precinct 2",Secretary of State,,Kristina Elaine Karamo,REP,400,136,536
 Ottawa,"Crockery Township, Precinct 2",Secretary of State,,Gregory Scott Stempfle,LIB,7,0,7

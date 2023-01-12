@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Spring Lake Township, Precinct 6A",State Senate,,Kim S. Nagy,DEM,174,181,355
 Ottawa,"Spring Lake Township, Precinct 6A",State Senate,,Roger Victory,REP,272,110,382
 Ottawa,"Spring Lake Township, Precinct 6A",State Senate,,Jessica L. Fox,LIB,27,6,33

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Chester Township, Precinct 1D",State Senate,,Mark Bignell,DEM,85,0,85
 Ottawa,"Chester Township, Precinct 1D",State Senate,,Rick Outman,REP,218,0,218
 Ottawa,"Chester Township, Precinct 1D",State Senate,,Jay Gillotte,LIB,6,0,6

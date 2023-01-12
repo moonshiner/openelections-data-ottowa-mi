@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Grand Haven, Precinct 3",Secretary of State,,Jocelyn Benson,DEM,387,564,951
 Ottawa,"City of Grand Haven, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,407,301,708
 Ottawa,"City of Grand Haven, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,14,9,23

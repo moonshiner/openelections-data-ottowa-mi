@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Crockery Township, Precinct 1A",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,0,0,0
 Ottawa,"Crockery Township, Precinct 1A",Governor,,Tudor M. Dixon Shane Hernandez,REP,5,0,5
 Ottawa,"Crockery Township, Precinct 1A",Governor,,Mary Buzuma Brian Ellison,LIB,0,0,0

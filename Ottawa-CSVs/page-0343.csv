@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 6, Precinct 14",Secretary of State,,Jocelyn Benson,DEM,364,225,589
 Ottawa,"City of Holland, Ward 6, Precinct 14",Secretary of State,,Kristina Elaine Karamo,REP,203,56,259
 Ottawa,"City of Holland, Ward 6, Precinct 14",Secretary of State,,Gregory Scott Stempfle,LIB,20,2,22

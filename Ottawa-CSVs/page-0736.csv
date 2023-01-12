@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Grand Haven Charter Township, Precinct 5",Secretary of State,,Jocelyn Benson,DEM,379,614,993
 Ottawa,"Grand Haven Charter Township, Precinct 5",Secretary of State,,Kristina Elaine Karamo,REP,429,387,816
 Ottawa,"Grand Haven Charter Township, Precinct 5",Secretary of State,,Gregory Scott Stempfle,LIB,11,5,16

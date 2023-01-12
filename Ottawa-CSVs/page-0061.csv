@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Blendon Township, Precinct 1A",Straight Party,,Democratic Party,DEM,6,9,15
 Ottawa,"Blendon Township, Precinct 1A",Straight Party,,Republican Party,REP,102,43,145
 Ottawa,"Blendon Township, Precinct 1A",Straight Party,,Libertarian Party,LIB,0,1,1

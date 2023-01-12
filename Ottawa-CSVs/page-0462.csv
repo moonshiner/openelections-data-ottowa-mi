@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Crockery Township, Precinct 1C",State Senate,,Kim S. Nagy,DEM,104,78,182
 Ottawa,"Crockery Township, Precinct 1C",State Senate,,Roger Victory,REP,219,57,276
 Ottawa,"Crockery Township, Precinct 1C",State Senate,,Jessica L. Fox,LIB,16,1,17

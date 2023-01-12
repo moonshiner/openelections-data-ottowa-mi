@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Park Township, Precinct 5",State Senate,,Kim S. Nagy,DEM,293,416,709
 Ottawa,"Park Township, Precinct 5",State Senate,,Roger Victory,REP,625,317,942
 Ottawa,"Park Township, Precinct 5",State Senate,,Jessica L. Fox,LIB,35,8,43

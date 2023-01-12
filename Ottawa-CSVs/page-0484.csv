@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Georgetown Charter Township, Precinct 1A",State Senate,,Kim S. Nagy,DEM,5,4,9
 Ottawa,"Georgetown Charter Township, Precinct 1A",State Senate,,Roger Victory,REP,1,2,3
 Ottawa,"Georgetown Charter Township, Precinct 1A",State Senate,,Jessica L. Fox,LIB,1,0,1

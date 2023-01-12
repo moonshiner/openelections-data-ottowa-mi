@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Tallmadge Charter Township, Precinct 3C",State Senate,,David LaGrand,DEM,136,209,345
 Ottawa,"Tallmadge Charter Township, Precinct 3C",State Senate,,Mark Huizenga,REP,389,256,645
 Ottawa,"Tallmadge Charter Township, Precinct 3C",State Senate,,Theodore Petzold,LIB,9,8,17

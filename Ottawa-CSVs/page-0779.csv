@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Holland Charter Township, Precinct 1B",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,253,182,435
 Ottawa,"Holland Charter Township, Precinct 1B",Governor,,Tudor M. Dixon Shane Hernandez,REP,305,122,427
 Ottawa,"Holland Charter Township, Precinct 1B",Governor,,Mary Buzuma Brian Ellison,LIB,9,2,11

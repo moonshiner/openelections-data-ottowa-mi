@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Grand Haven Charter Township, Precinct 3",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,280,527,807
 Ottawa,"Grand Haven Charter Township, Precinct 3",Governor,,Tudor M. Dixon Shane Hernandez,REP,467,366,833
 Ottawa,"Grand Haven Charter Township, Precinct 3",Governor,,Mary Buzuma Brian Ellison,LIB,8,5,13

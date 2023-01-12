@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Zeeland, Precinct 4",Straight Party,,Democratic Party,DEM,46,98,144
 Ottawa,"City of Zeeland, Precinct 4",Straight Party,,Republican Party,REP,237,395,632
 Ottawa,"City of Zeeland, Precinct 4",Straight Party,,Libertarian Party,LIB,2,1,3

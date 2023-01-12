@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Port Sheldon Township, Precinct 2A",Straight Party,,Democratic Party,DEM,40,117,157
 Ottawa,"Port Sheldon Township, Precinct 2A",Straight Party,,Republican Party,REP,121,109,230
 Ottawa,"Port Sheldon Township, Precinct 2A",Straight Party,,Libertarian Party,LIB,2,1,3

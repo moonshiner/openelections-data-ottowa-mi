@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Wright Township, Precinct 1B",State Senate,,David LaGrand,DEM,63,74,137
 Ottawa,"Wright Township, Precinct 1B",State Senate,,Mark Huizenga,REP,229,85,314
 Ottawa,"Wright Township, Precinct 1B",State Senate,,Theodore Petzold,LIB,3,2,5

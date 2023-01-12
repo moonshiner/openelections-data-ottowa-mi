@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Zeeland, Precinct 1",State Senate,,Kim S. Nagy,DEM,101,72,173
 Ottawa,"City of Zeeland, Precinct 1",State Senate,,Roger Victory,REP,336,71,407
 Ottawa,"City of Zeeland, Precinct 1",State Senate,,Jessica L. Fox,LIB,8,5,13

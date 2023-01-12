@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Olive Township, Precinct 2",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,173,135,308
 Ottawa,"Olive Township, Precinct 2",Governor,,Tudor M. Dixon Shane Hernandez,REP,778,313,1091
 Ottawa,"Olive Township, Precinct 2",Governor,,Mary Buzuma Brian Ellison,LIB,2,2,4

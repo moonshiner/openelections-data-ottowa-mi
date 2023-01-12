@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Holland, Ward 2, Precinct 5",State Senate,,Kim S. Nagy,DEM,229,195,424
 Ottawa,"City of Holland, Ward 2, Precinct 5",State Senate,,Roger Victory,REP,162,79,241
 Ottawa,"City of Holland, Ward 2, Precinct 5",State Senate,,Jessica L. Fox,LIB,18,4,22

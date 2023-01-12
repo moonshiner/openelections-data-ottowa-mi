@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Chester Township, Precinct 1D",Straight Party,,Democratic Party,DEM,50,0,50
 Ottawa,"Chester Township, Precinct 1D",Straight Party,,Republican Party,REP,141,0,141
 Ottawa,"Chester Township, Precinct 1D",Straight Party,,Libertarian Party,LIB,3,0,3

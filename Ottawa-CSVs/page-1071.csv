@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Polkton Charter Township, Precinct 1",Secretary of State,,Jocelyn Benson,DEM,395,0,395
 Ottawa,"Polkton Charter Township, Precinct 1",Secretary of State,,Kristina Elaine Karamo,REP,998,0,998
 Ottawa,"Polkton Charter Township, Precinct 1",Secretary of State,,Gregory Scott Stempfle,LIB,26,0,26

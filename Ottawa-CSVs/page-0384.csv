@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,216,205,421
 Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Governor,,Tudor M. Dixon Shane Hernandez,REP,795,370,1165
 Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Governor,,Mary Buzuma Brian Ellison,LIB,13,3,16

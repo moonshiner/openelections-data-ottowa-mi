@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Kim S. Nagy,DEM,800,0,800
 Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Roger Victory,REP,963,0,963
 Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Jessica L. Fox,LIB,42,0,42

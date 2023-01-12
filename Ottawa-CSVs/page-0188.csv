@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Ferrysburg, Precinct 1",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,949,0,949
 Ottawa,"City of Ferrysburg, Precinct 1",Governor,,Tudor M. Dixon Shane Hernandez,REP,876,0,876
 Ottawa,"City of Ferrysburg, Precinct 1",Governor,,Mary Buzuma Brian Ellison,LIB,18,0,18

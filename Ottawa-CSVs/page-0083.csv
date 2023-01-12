@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Blendon Township, Precinct 2A",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,130,127,257
 Ottawa,"Blendon Township, Precinct 2A",Governor,,Tudor M. Dixon Shane Hernandez,REP,652,329,981
 Ottawa,"Blendon Township, Precinct 2A",Governor,,Mary Buzuma Brian Ellison,LIB,5,1,6

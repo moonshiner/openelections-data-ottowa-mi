@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",State Senate,,Kim S. Nagy,DEM,138,112,250
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",State Senate,,Roger Victory,REP,483,231,714
 Ottawa,"City of Hudsonville, Ward 2, Precinct 1",State Senate,,Jessica L. Fox,LIB,23,3,26

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Grand Haven Charter Township, Precinct 4",Straight Party,,Democratic Party,DEM,125,186,311
 Ottawa,"Grand Haven Charter Township, Precinct 4",Straight Party,,Republican Party,REP,222,146,368
 Ottawa,"Grand Haven Charter Township, Precinct 4",Straight Party,,Libertarian Party,LIB,6,2,8

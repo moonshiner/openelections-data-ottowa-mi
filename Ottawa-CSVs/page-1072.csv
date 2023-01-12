@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Polkton Charter Township, Precinct 1",State Senate,,David LaGrand,DEM,305,0,305
 Ottawa,"Polkton Charter Township, Precinct 1",State Senate,,Mark Huizenga,REP,1096,0,1096
 Ottawa,"Polkton Charter Township, Precinct 1",State Senate,,Theodore Petzold,LIB,27,0,27

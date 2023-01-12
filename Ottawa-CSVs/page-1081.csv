@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Port Sheldon Township, Precinct 1A",Secretary of State,,Jocelyn Benson,DEM,10,33,43
 Ottawa,"Port Sheldon Township, Precinct 1A",Secretary of State,,Kristina Elaine Karamo,REP,23,23,46
 Ottawa,"Port Sheldon Township, Precinct 1A",Secretary of State,,Gregory Scott Stempfle,LIB,0,2,2

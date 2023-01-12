@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Olive Township, Precinct 1",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,182,85,267
 Ottawa,"Olive Township, Precinct 1",Governor,,Tudor M. Dixon Shane Hernandez,REP,461,177,638
 Ottawa,"Olive Township, Precinct 1",Governor,,Mary Buzuma Brian Ellison,LIB,7,1,8

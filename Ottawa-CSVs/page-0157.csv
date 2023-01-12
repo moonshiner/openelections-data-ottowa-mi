@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Chester Township, Precinct 1D",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,90,0,90
 Ottawa,"Chester Township, Precinct 1D",Governor,,Tudor M. Dixon Shane Hernandez,REP,216,0,216
 Ottawa,"Chester Township, Precinct 1D",Governor,,Mary Buzuma Brian Ellison,LIB,3,0,3

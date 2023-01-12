@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Zeeland, Precinct 3",Secretary of State,,Jocelyn Benson,DEM,197,85,282
 Ottawa,"City of Zeeland, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,294,55,349
 Ottawa,"City of Zeeland, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,6,2,8

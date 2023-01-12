@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Zeeland, Precinct 2",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,142,88,230
 Ottawa,"City of Zeeland, Precinct 2",Governor,,Tudor M. Dixon Shane Hernandez,REP,178,82,260
 Ottawa,"City of Zeeland, Precinct 2",Governor,,Mary Buzuma Brian Ellison,LIB,7,2,9

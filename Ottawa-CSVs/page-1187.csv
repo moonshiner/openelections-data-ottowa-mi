@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Democratic Party,DEM,1,0,1
 Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Republican Party,REP,0,0,0
 Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Libertarian Party,LIB,0,0,0

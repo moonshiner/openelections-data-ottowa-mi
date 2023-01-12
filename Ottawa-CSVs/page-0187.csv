@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Ferrysburg, Precinct 1",Straight Party,,Democratic Party,DEM,428,0,428
 Ottawa,"City of Ferrysburg, Precinct 1",Straight Party,,Republican Party,REP,517,0,517
 Ottawa,"City of Ferrysburg, Precinct 1",Straight Party,,Libertarian Party,LIB,1,0,1

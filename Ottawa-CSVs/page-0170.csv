@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"City of Coopersville, Precinct 1",State Senate,,David LaGrand,DEM,167,114,281
 Ottawa,"City of Coopersville, Precinct 1",State Senate,,Mark Huizenga,REP,479,118,597
 Ottawa,"City of Coopersville, Precinct 1",State Senate,,Theodore Petzold,LIB,17,7,24

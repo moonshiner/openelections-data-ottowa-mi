@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Jamestown Charter Township, Precinct 4",Straight Party,,Democratic Party,DEM,123,84,207
 Ottawa,"Jamestown Charter Township, Precinct 4",Straight Party,,Republican Party,REP,430,134,564
 Ottawa,"Jamestown Charter Township, Precinct 4",Straight Party,,Libertarian Party,LIB,6,0,6

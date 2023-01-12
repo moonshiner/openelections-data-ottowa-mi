@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Secretary of State,,Jocelyn Benson,DEM,11,30,41
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Secretary of State,,Kristina Elaine Karamo,REP,53,20,73
 Ottawa,"Tallmadge Charter Township, Precinct 1C",Secretary of State,,Gregory Scott Stempfle,LIB,0,0,0

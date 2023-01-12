@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Spring Lake Township, Precinct 3A",Governor,,Gretchen Whitmer Garlin D. Gilchrist II,DEM,1,0,1
 Ottawa,"Spring Lake Township, Precinct 3A",Governor,,Tudor M. Dixon Shane Hernandez,REP,6,0,6
 Ottawa,"Spring Lake Township, Precinct 3A",Governor,,Mary Buzuma Brian Ellison,LIB,0,0,0

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Wright Township, Precinct 1C",Secretary of State,,Jocelyn Benson,DEM,4,5,9
 Ottawa,"Wright Township, Precinct 1C",Secretary of State,,Kristina Elaine Karamo,REP,21,6,27
 Ottawa,"Wright Township, Precinct 1C",Secretary of State,,Gregory Scott Stempfle,LIB,0,0,0

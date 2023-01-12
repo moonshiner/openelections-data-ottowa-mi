@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,election_day,absentee,total
 Ottawa,"Jamestown Charter Township, Precinct 3",Secretary of State,,Jocelyn Benson,DEM,122,86,208
 Ottawa,"Jamestown Charter Township, Precinct 3",Secretary of State,,Kristina Elaine Karamo,REP,442,188,630
 Ottawa,"Jamestown Charter Township, Precinct 3",Secretary of State,,Gregory Scott Stempfle,LIB,4,4,8
