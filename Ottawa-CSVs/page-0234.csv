@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Kim S. Nagy,DEM,453,403,856
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Roger Victory,REP,487,188,675
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Jessica L. Fox,LIB,38,13,51
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Cast Votes:,,978,604,1582
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Undervotes:,,40,11,51
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Overvotes:,,0,0,0
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Rejected write-in votes:,,1,0,1
-Ottawa,"City of Grand Haven, Precinct 4",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Christine Baker,DEM,468,400,868
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Greg VanWoerkom,REP,486,186,672
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Marv Bolthouse,LIB,24,12,36
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Cast Votes:,,978,598,1576
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Undervotes:,,40,17,57
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Overvotes:,,0,0,0
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Rejected write-in votes:,,1,0,1
-Ottawa,"City of Grand Haven, Precinct 4",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Kim S. Nagy,DEM,453,403,856
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Roger Victory,REP,487,188,675
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Jessica L. Fox,LIB,38,13,51
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Cast Votes:,,978,604,1582
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Undervotes:,,40,11,51
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Overvotes:,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Rejected write-in votes:,,1,0,1
+Ottawa,"City of Grand Haven, Precinct 4",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Christine Baker,DEM,468,400,868
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Greg VanWoerkom,REP,486,186,672
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Marv Bolthouse,LIB,24,12,36
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Cast Votes:,,978,598,1576
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Undervotes:,,40,17,57
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Overvotes:,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Rejected write-in votes:,,1,0,1
+Ottawa,"City of Grand Haven, Precinct 4",State House,88,Unresolved write-in votes:,,0,0,0

@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Kim S. Nagy,DEM,150,194,344
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Roger Victory,REP,862,566,1428
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Jessica L. Fox,LIB,16,5,21
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Cast Votes:,,1028,765,1793
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Undervotes:,,17,9,26
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Overvotes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Rejected write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Todd Avery,DEM,160,199,359
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Bradley Slagh,REP,842,552,1394
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Greg Parlmer II,LIB,8,6,14
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Cast Votes:,,1010,757,1767
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Undervotes:,,35,17,52
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Overvotes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Rejected write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 14",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Kim S. Nagy,DEM,150,194,344
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Roger Victory,REP,862,566,1428
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Jessica L. Fox,LIB,16,5,21
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Cast Votes:,,1028,765,1793
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Undervotes:,,17,9,26
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Overvotes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Rejected write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Todd Avery,DEM,160,199,359
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Bradley Slagh,REP,842,552,1394
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Greg Parlmer II,LIB,8,6,14
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Cast Votes:,,1010,757,1767
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Undervotes:,,35,17,52
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Overvotes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Rejected write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 14",State House,85,Unresolved write-in votes:,,0,0,0

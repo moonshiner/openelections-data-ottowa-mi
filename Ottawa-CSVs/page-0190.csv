@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Kim S. Nagy,DEM,800,0,800
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Roger Victory,REP,963,0,963
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Jessica L. Fox,LIB,42,0,42
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Cast Votes:,,1805,0,1805
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Undervotes:,,55,0,55
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Overvotes:,,0,0,0
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Rejected write-in votes:,,2,0,2
-Ottawa,"City of Ferrysburg, Precinct 1",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Christine Baker,DEM,794,0,794
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Greg VanWoerkom,REP,976,0,976
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Marv Bolthouse,LIB,41,0,41
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Cast Votes:,,1811,0,1811
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Undervotes:,,51,0,51
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Overvotes:,,0,0,0
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Rejected write-in votes:,,0,0,0
-Ottawa,"City of Ferrysburg, Precinct 1",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Kim S. Nagy,DEM,800,0,800
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Roger Victory,REP,963,0,963
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Jessica L. Fox,LIB,42,0,42
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Cast Votes:,,1805,0,1805
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Undervotes:,,55,0,55
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Overvotes:,,0,0,0
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Rejected write-in votes:,,2,0,2
+Ottawa,"City of Ferrysburg, Precinct 1",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Christine Baker,DEM,794,0,794
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Greg VanWoerkom,REP,976,0,976
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Marv Bolthouse,LIB,41,0,41
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Cast Votes:,,1811,0,1811
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Undervotes:,,51,0,51
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Overvotes:,,0,0,0
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Rejected write-in votes:,,0,0,0
+Ottawa,"City of Ferrysburg, Precinct 1",State House,88,Unresolved write-in votes:,,0,0,0

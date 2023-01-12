@@ -1,30 +1,30 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Kim S. Nagy,DEM,337,208,545
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Roger Victory,REP,213,71,284
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Jessica L. Fox,LIB,29,5,34
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Cast Votes:,,579,284,863
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Undervotes:,,22,7,29
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Overvotes:,,1,0,1
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Rejected write-in votes:,,0,1,1
-Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Larry D. Jackson,DEM,329,201,530
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Nancy De Boer,REP,249,82,331
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Cast Votes:,,578,283,861
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Undervotes:,,22,9,31
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Overvotes:,,0,0,0
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Rejected write-in votes:,,2,0,2
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Unresolved write-in votes:,,0,0,0
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,,,,,
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Pamela Pugh,DEM,309,196,505
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Mitchell Robinson,DEM,286,193,479
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Tamara D. Carlone,REP,194,66,260
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Linda Lee Tarver,REP,190,63,253
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Donna Gundle-Krieg,LIB,31,3,34
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Bill Hall,LIB,27,0,27
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Ethan Hobson,UST,3,3,6
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Mary Anne Hering,WC,29,11,40
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Cast Votes:,,1069,535,1604
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Undervotes:,,132,45,177
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Overvotes:,,1,0,1
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Rejected write-in votes:,,1,4,5
-Ottawa,"City of Holland, Ward 6, Precinct 14",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Kim S. Nagy,DEM,337,208,545
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Roger Victory,REP,213,71,284
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Jessica L. Fox,LIB,29,5,34
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Cast Votes:,,579,284,863
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Undervotes:,,22,7,29
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Overvotes:,,1,0,1
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Rejected write-in votes:,,0,1,1
+Ottawa,"City of Holland, Ward 6, Precinct 14",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Larry D. Jackson,DEM,329,201,530
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Nancy De Boer,REP,249,82,331
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Cast Votes:,,578,283,861
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Undervotes:,,22,9,31
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Overvotes:,,0,0,0
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Rejected write-in votes:,,2,0,2
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,,,,,
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Pamela Pugh,DEM,309,196,505
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Mitchell Robinson,DEM,286,193,479
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Tamara D. Carlone,REP,194,66,260
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Linda Lee Tarver,REP,190,63,253
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Donna Gundle-Krieg,LIB,31,3,34
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Bill Hall,LIB,27,0,27
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Ethan Hobson,UST,3,3,6
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Mary Anne Hering,WC,29,11,40
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Cast Votes:,,1069,535,1604
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Undervotes:,,132,45,177
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Overvotes:,,1,0,1
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Rejected write-in votes:,,1,4,5
+Ottawa,"City of Holland, Ward 6, Precinct 14",State House,86,Unresolved write-in votes:,,0,0,0

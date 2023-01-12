@@ -1,30 +1,30 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,David LaGrand,DEM,269,332,601
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Mark Huizenga,REP,1034,475,1509
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Theodore Petzold,LIB,18,5,23
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Cast Votes:,,1321,812,2133
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Undervotes:,,28,14,42
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Overvotes:,,0,0,0
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Rejected write-in votes:,,2,0,2
-Ottawa,"Allendale Charter Township, Precinct 1",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Sharon McConnon,DEM,260,319,579
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Luke Meerman,REP,1047,481,1528
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Cast Votes:,,1307,800,2107
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Undervotes:,,43,25,68
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Overvotes:,,0,0,0
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Rejected write-in votes:,,1,1,2
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,,,,,
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Pamela Pugh,DEM,257,327,584
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Mitchell Robinson,DEM,242,326,568
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Tamara D. Carlone,REP,971,431,1402
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Linda Lee Tarver,REP,952,434,1386
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Donna Gundle-Krieg,LIB,20,14,34
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Bill Hall,LIB,24,11,35
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Ethan Hobson,UST,5,6,11
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Mary Anne Hering,WC,23,10,33
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Cast Votes:,,2494,1559,4053
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Undervotes:,,204,93,297
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Overvotes:,,1,0,1
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Rejected write-in votes:,,2,0,2
-Ottawa,"Allendale Charter Township, Precinct 1",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,David LaGrand,DEM,269,332,601
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Mark Huizenga,REP,1034,475,1509
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Theodore Petzold,LIB,18,5,23
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Cast Votes:,,1321,812,2133
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Undervotes:,,28,14,42
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Overvotes:,,0,0,0
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Rejected write-in votes:,,2,0,2
+Ottawa,"Allendale Charter Township, Precinct 1",State Senate,30,Unresolved write-in votes:,,0,0,0
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Sharon McConnon,DEM,260,319,579
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Luke Meerman,REP,1047,481,1528
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Cast Votes:,,1307,800,2107
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Undervotes:,,43,25,68
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Overvotes:,,0,0,0
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Rejected write-in votes:,,1,1,2
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Unresolved write-in votes:,,0,0,0
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,,,,,
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Pamela Pugh,DEM,257,327,584
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Mitchell Robinson,DEM,242,326,568
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Tamara D. Carlone,REP,971,431,1402
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Linda Lee Tarver,REP,952,434,1386
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Donna Gundle-Krieg,LIB,20,14,34
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Bill Hall,LIB,24,11,35
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Ethan Hobson,UST,5,6,11
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Mary Anne Hering,WC,23,10,33
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Cast Votes:,,2494,1559,4053
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Undervotes:,,204,93,297
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Overvotes:,,1,0,1
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Rejected write-in votes:,,2,0,2
+Ottawa,"Allendale Charter Township, Precinct 1",State House,89,Unresolved write-in votes:,,0,0,0

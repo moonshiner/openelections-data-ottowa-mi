@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Kim S. Nagy,DEM,227,192,419
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Roger Victory,REP,904,345,1249
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Jessica L. Fox,LIB,30,5,35
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Cast Votes:,,1161,542,1703
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Undervotes:,,22,6,28
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Overvotes:,,0,0,0
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Rejected write-in votes:,,1,1,2
-Ottawa,"Zeeland Township, Precinct 3",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Zeeland Township, Precinct 3",State House,,Todd Avery,DEM,214,174,388
-Ottawa,"Zeeland Township, Precinct 3",State House,,Bradley Slagh,REP,927,361,1288
-Ottawa,"Zeeland Township, Precinct 3",State House,,Greg Parlmer II,LIB,18,5,23
-Ottawa,"Zeeland Township, Precinct 3",State House,,Cast Votes:,,1159,540,1699
-Ottawa,"Zeeland Township, Precinct 3",State House,,Undervotes:,,24,8,32
-Ottawa,"Zeeland Township, Precinct 3",State House,,Overvotes:,,0,0,0
-Ottawa,"Zeeland Township, Precinct 3",State House,,Rejected write-in votes:,,1,1,2
-Ottawa,"Zeeland Township, Precinct 3",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Kim S. Nagy,DEM,227,192,419
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Roger Victory,REP,904,345,1249
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Jessica L. Fox,LIB,30,5,35
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Cast Votes:,,1161,542,1703
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Undervotes:,,22,6,28
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Overvotes:,,0,0,0
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Rejected write-in votes:,,1,1,2
+Ottawa,"Zeeland Township, Precinct 3",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Todd Avery,DEM,214,174,388
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Bradley Slagh,REP,927,361,1288
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Greg Parlmer II,LIB,18,5,23
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Cast Votes:,,1159,540,1699
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Undervotes:,,24,8,32
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Overvotes:,,0,0,0
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Rejected write-in votes:,,1,1,2
+Ottawa,"Zeeland Township, Precinct 3",State House,85,Unresolved write-in votes:,,0,0,0

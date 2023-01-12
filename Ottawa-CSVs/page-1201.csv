@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Kim S. Nagy,DEM,356,356,712
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Roger Victory,REP,657,399,1056
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Jessica L. Fox,LIB,20,12,32
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Cast Votes:,,1033,767,1800
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Undervotes:,,28,27,55
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Overvotes:,,1,0,1
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Rejected write-in votes:,,1,1,2
-Ottawa,"Spring Lake Township, Precinct 3B",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Christine Baker,DEM,355,350,705
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Greg VanWoerkom,REP,660,405,1065
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Marv Bolthouse,LIB,20,10,30
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Cast Votes:,,1035,765,1800
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Undervotes:,,27,29,56
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Overvotes:,,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Rejected write-in votes:,,1,1,2
-Ottawa,"Spring Lake Township, Precinct 3B",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Kim S. Nagy,DEM,356,356,712
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Roger Victory,REP,657,399,1056
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Jessica L. Fox,LIB,20,12,32
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Cast Votes:,,1033,767,1800
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Undervotes:,,28,27,55
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Overvotes:,,1,0,1
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Rejected write-in votes:,,1,1,2
+Ottawa,"Spring Lake Township, Precinct 3B",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Christine Baker,DEM,355,350,705
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Greg VanWoerkom,REP,660,405,1065
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Marv Bolthouse,LIB,20,10,30
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Cast Votes:,,1035,765,1800
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Undervotes:,,27,29,56
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Overvotes:,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Rejected write-in votes:,,1,1,2
+Ottawa,"Spring Lake Township, Precinct 3B",State House,88,Unresolved write-in votes:,,0,0,0

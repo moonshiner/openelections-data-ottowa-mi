@@ -1,17 +1,17 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Kim S. Nagy,DEM,282,299,581
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Roger Victory,REP,817,405,1222
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Jessica L. Fox,LIB,29,10,39
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Cast Votes:,,1128,714,1842
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Undervotes:,,20,19,39
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Overvotes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Rejected write-in votes:,,2,0,2
-Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,,Unresolved write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Todd Avery,DEM,301,305,606
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Bradley Slagh,REP,800,396,1196
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Greg Parlmer II,LIB,26,9,35
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Cast Votes:,,1127,710,1837
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Undervotes:,,20,23,43
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Overvotes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Rejected write-in votes:,,3,0,3
-Ottawa,"Georgetown Charter Township, Precinct 10",State House,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Kim S. Nagy,DEM,282,299,581
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Roger Victory,REP,817,405,1222
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Jessica L. Fox,LIB,29,10,39
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Cast Votes:,,1128,714,1842
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Undervotes:,,20,19,39
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Overvotes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Rejected write-in votes:,,2,0,2
+Ottawa,"Georgetown Charter Township, Precinct 10",State Senate,31,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Todd Avery,DEM,301,305,606
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Bradley Slagh,REP,800,396,1196
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Greg Parlmer II,LIB,26,9,35
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Cast Votes:,,1127,710,1837
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Undervotes:,,20,23,43
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Overvotes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Rejected write-in votes:,,3,0,3
+Ottawa,"Georgetown Charter Township, Precinct 10",State House,85,Unresolved write-in votes:,,0,0,0
