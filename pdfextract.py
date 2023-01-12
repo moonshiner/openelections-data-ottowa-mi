@@ -65,7 +65,7 @@ def main():
         if file.endswith('.pdf'):
             Files.append(f"{args.inputdir}/{file}")
     Files.sort()
-    Files = ["SplitPDFs/Ottawa/Ottawa-MI-precinctFile-210_page_0001.pdf"]
+
     for infile in Files or []:
         Line = TextData()
         # print(f"Reading: {infile}")
