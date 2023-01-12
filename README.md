@@ -34,3 +34,16 @@ splitpdf.py uses pyPDF2 to read in the PDF and write out each page as a
 seperate file. Additionaly it has a check to see if the page contains
 results for the relevanct races, and writes those only.
 
+
+
+splitpdf.py         Takes a single PDF file and splits it into a dir of 1 page PDFs
+
+
+pdfextract.py         Parse a single page PDF and extract the text (and poisitions
+                    the page).  Write out the extract CSV file
+
+getresults.py         Reads an extracted CSV file from above and generate the
+                    Election Results CSV
+
+
+###
