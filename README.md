@@ -46,4 +46,21 @@ getresults.py         Reads an extracted CSV file from above and generate the
                     Election Results CSV
 
 
-###
+### Outstanding Issues
+
+
+- I was running them per page. A few things I've noticed
+
+- DONE - I had the districts in these but appear to have dropped them in this batch.
+
+- Ottawa(and the rest of this format) count election day and absentee separate.
+
+- Also in your example I don't see how you handle the under/over/rejected/unreseolved
+ vote tallies.
+
+- I have some mangled elected for school board (page 4 as an example). Have the code to drop it also
+ just not turned on
+
+- Shorten Gov Candidate names
+
+
