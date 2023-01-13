@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Democratic Party,DEM,56,65,121
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Republican Party,REP,448,240,688
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Libertarian Party,LIB,1,0,1
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,U.S. Taxpayers Party,UST,0,1,1
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Working Class Party,WC,0,0,0
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Green Party,GRE,1,0,1
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Cast Votes:,,506,306,812
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Undervotes:,,288,155,443
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Democratic,DEM,56,65,121
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Republican,REP,448,240,688
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Libertarian,LIB,1,0,1
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,U.S. Taxpayers,UST,0,1,1
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Working Class,WC,0,0,0
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Green,GRE,1,0,1
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Cast,,506,306,812
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,,,288,155,443
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,,,0,0,0
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Blendon Township, Precinct 2A",Straight Party,,Unresolved write-in,,0,0,0

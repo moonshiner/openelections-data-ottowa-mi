@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Democratic Party,DEM,91,103,194
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Republican Party,REP,524,276,800
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Libertarian Party,LIB,5,1,6
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Working Class Party,WC,0,0,0
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Green Party,GRE,1,0,1
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Cast Votes:,,621,380,1001
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Undervotes:,,411,205,616
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Democratic,DEM,91,103,194
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Republican,REP,524,276,800
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Libertarian,LIB,5,1,6
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Working Class,WC,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Green,GRE,1,0,1
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Cast,,621,380,1001
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,,,411,205,616
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,,,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"City of Hudsonville, Ward 3, Precinct 1",Straight Party,,Unresolved write-in,,0,0,0

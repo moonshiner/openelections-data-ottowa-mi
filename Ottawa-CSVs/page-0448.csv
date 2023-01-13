@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Democratic Party,DEM,91,107,198
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Republican Party,REP,311,92,403
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Libertarian Party,LIB,6,2,8
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Working Class Party,WC,2,1,3
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Natural Law Party,NAL,1,0,1
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Cast Votes:,,411,202,613
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Undervotes:,,352,121,473
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Overvotes:,,1,0,1
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Democratic,DEM,91,107,198
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Republican,REP,311,92,403
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Libertarian,LIB,6,2,8
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Working Class,WC,2,1,3
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Natural Law,NAL,1,0,1
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Cast,,411,202,613
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,,,352,121,473
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,,,1,0,1
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Crockery Township, Precinct 1B",Straight Party,,Unresolved write-in,,0,0,0

@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Democratic Party,DEM,93,200,293
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Republican Party,REP,246,130,376
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Libertarian Party,LIB,3,2,5
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Working Class Party,WC,1,1,2
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Green Party,GRE,0,1,1
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Cast Votes:,,343,334,677
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Undervotes:,,361,246,607
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Democratic,DEM,93,200,293
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Republican,REP,246,130,376
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Libertarian,LIB,3,2,5
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Working Class,WC,1,1,2
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Green,GRE,0,1,1
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Cast,,343,334,677
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,,,361,246,607
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,,,0,0,0
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Grand Haven Charter Township, Precinct 1",Straight Party,,Unresolved write-in,,0,0,0

@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Democratic Party,DEM,50,0,50
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Republican Party,REP,161,0,161
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Libertarian Party,LIB,2,0,2
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Working Class Party,WC,1,0,1
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Cast Votes:,,214,0,214
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Undervotes:,,120,0,120
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Chester Township, Precinct 1C",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Democratic,DEM,50,0,50
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Republican,REP,161,0,161
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Libertarian,LIB,2,0,2
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Working Class,WC,1,0,1
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Cast,,214,0,214
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,,,120,0,120
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,,,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Chester Township, Precinct 1C",Straight Party,,Unresolved write-in,,0,0,0

@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Democratic Party,DEM,145,136,281
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Republican Party,REP,620,274,894
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Libertarian Party,LIB,2,1,3
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Working Class Party,WC,3,0,3
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Green Party,GRE,1,0,1
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Cast Votes:,,771,411,1182
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Undervotes:,,609,247,856
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Overvotes:,,2,0,2
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Democratic,DEM,145,136,281
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Republican,REP,620,274,894
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Libertarian,LIB,2,1,3
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Working Class,WC,3,0,3
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Green,GRE,1,0,1
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Cast,,771,411,1182
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,,,609,247,856
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,,,2,0,2
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 13",Straight Party,,Unresolved write-in,,0,0,0
