@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Democratic Party,DEM,26,51,77
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Republican Party,REP,170,86,256
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Libertarian Party,LIB,0,1,1
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Working Class Party,WC,2,0,2
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Cast Votes:,,198,138,336
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Undervotes:,,143,84,227
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Democratic,DEM,26,51,77
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Republican,REP,170,86,256
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Libertarian,LIB,0,1,1
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Working Class,WC,2,0,2
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Cast,,198,138,336
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,,,143,84,227
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 17",Straight Party,,Unresolved write-in,,0,0,0

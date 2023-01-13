@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Democratic Party,DEM,44,36,80
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Republican Party,REP,576,239,815
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Libertarian Party,LIB,2,0,2
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Working Class Party,WC,0,0,0
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Cast Votes:,,622,275,897
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Undervotes:,,360,151,511
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Overvotes:,,1,0,1
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Democratic,DEM,44,36,80
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Republican,REP,576,239,815
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Libertarian,LIB,2,0,2
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Working Class,WC,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Cast,,622,275,897
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,,,360,151,511
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,,,1,0,1
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Jamestown Charter Township, Precinct 2",Straight Party,,Unresolved write-in,,0,0,0

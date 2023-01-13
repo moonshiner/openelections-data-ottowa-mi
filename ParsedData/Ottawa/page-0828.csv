@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Democratic Party,DEM,96,150,246
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Republican Party,REP,454,362,816
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Libertarian Party,LIB,5,0,5
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,U.S. Taxpayers Party,UST,1,0,1
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Working Class Party,WC,1,0,1
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Green Party,GRE,1,0,1
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Cast Votes:,,558,512,1070
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Undervotes:,,467,255,722
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Overvotes:,,1,0,1
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Democratic,DEM,96,150,246
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Republican,REP,454,362,816
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Libertarian,LIB,5,0,5
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,U.S. Taxpayers,UST,1,0,1
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Working Class,WC,1,0,1
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Green,GRE,1,0,1
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Cast,,558,512,1070
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,,,467,255,722
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,,,1,0,1
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Holland Charter Township, Precinct 5B",Straight Party,,Unresolved write-in,,0,0,0

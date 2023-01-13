@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Democratic Party,DEM,135,183,318
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Republican Party,REP,182,138,320
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Libertarian Party,LIB,0,0,0
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Working Class Party,WC,2,1,3
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Green Party,GRE,1,0,1
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Cast Votes:,,320,322,642
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Undervotes:,,272,283,555
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Overvotes:,,1,0,1
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Democratic,DEM,135,183,318
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Republican,REP,182,138,320
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Libertarian,LIB,0,0,0
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Working Class,WC,2,1,3
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Green,GRE,1,0,1
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Cast,,320,322,642
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,,,272,283,555
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,,,1,0,1
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"City of Grand Haven, Precinct 1",Straight Party,,Unresolved write-in,,0,0,0

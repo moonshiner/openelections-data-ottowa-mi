@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Democratic Party,DEM,36,34,70
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Republican Party,REP,37,29,66
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Libertarian Party,LIB,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Working Class Party,WC,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Cast Votes:,,73,63,136
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Undervotes:,,50,21,71
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Democratic,DEM,36,34,70
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Republican,REP,37,29,66
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Libertarian,LIB,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Working Class,WC,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Cast,,73,63,136
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,,,50,21,71
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,,,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Tallmadge Charter Township, Precinct 1A",Straight Party,,Unresolved write-in,,0,0,0

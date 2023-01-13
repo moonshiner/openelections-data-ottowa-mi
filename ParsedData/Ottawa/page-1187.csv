@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Democratic Party,DEM,1,0,1
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Republican Party,REP,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Libertarian Party,LIB,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Working Class Party,WC,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Cast Votes:,,1,0,1
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Undervotes:,,6,0,6
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Overvotes:,,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Democratic,DEM,1,0,1
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Republican,REP,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Libertarian,LIB,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Working Class,WC,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Cast,,1,0,1
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,,,6,0,6
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Spring Lake Township, Precinct 3A",Straight Party,,Unresolved write-in,,0,0,0

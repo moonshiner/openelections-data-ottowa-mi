@@ -1,13 +1,13 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Democratic Party,DEM,22,12,34
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Republican Party,REP,18,6,24
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Libertarian Party,LIB,0,0,0
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,U.S. Taxpayers Party,UST,0,0,0
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Working Class Party,WC,1,1,2
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Green Party,GRE,0,0,0
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Natural Law Party,NAL,0,0,0
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Cast Votes:,,41,19,60
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Undervotes:,,23,7,30
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Overvotes:,,1,0,1
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Rejected write-in votes:,,0,0,0
-Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Unresolved write-in votes:,,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Democratic,DEM,22,12,34
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Republican,REP,18,6,24
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Libertarian,LIB,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Working Class,WC,1,1,2
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Green,GRE,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Natural Law,NAL,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Cast,,41,19,60
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,,,23,7,30
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,,,1,0,1
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Rejected write-in,,0,0,0
+Ottawa,"Holland Charter Township, Precinct 1A",Straight Party,,Unresolved write-in,,0,0,0
