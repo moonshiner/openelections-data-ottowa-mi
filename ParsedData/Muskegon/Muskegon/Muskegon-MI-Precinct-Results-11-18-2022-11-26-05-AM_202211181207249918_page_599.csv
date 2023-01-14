@@ -1,0 +1,11 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Democratic,DEM,203,107,310
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Republican,REP,123,29,152
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Libertarian,LIB,3,0,3
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Working Class,WC,0,0,0
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Green,GRN,1,1,2
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Natural Law,NLP,0,0,0
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Cast Votes,,330,137,467
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Overvotes,,0,1,1
+Muskegon,"City of Roosevelt Park, Precinct 2",Straight Party,,Unresolved,,0,0,0

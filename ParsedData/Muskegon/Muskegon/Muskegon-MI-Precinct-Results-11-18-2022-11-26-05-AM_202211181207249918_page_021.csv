@@ -1,0 +1,11 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Democratic,DEM,132,157,289
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Republican,REP,373,122,495
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Libertarian,LIB,5,4,9
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2,2,4
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Working Class,WC,3,1,4
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Green,GRN,2,0,2
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Natural Law,NLP,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Cast Votes,,517,286,803
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Overvotes,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",Straight Party,,Unresolved,,0,0,0

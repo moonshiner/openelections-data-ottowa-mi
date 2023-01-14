@@ -1,0 +1,27 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Dana Nessel,DEM,267,294,561
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Matthew DePerno,REP,582,227,809
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,12,8,20
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,18,2,20
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Cast Votes,,879,531,1410
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Overvotes,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",Attorney General,,Unresolved,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,,,,,
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,Jerry Hilliard,DEM,234,258,492
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,John Moolenaar,REP,616,260,876
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,Nathan Hewer,LIB,14,9,23
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,Cast Votes,,864,527,1391
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,Overvotes,,1,1,2
+Muskegon,"Cedar Creek Township, Precinct 1",U.S. House,2,Unresolved,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,,,,,
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,Terry J. Sabo,DEM,250,267,517
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,Jon C. Bumstead,REP,625,264,889
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,Cast Votes,,875,531,1406
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,Overvotes,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",State Senate,32,Unresolved,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,,,,,
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,Brian Hosticka,DEM,234,268,502
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,Curt VanderWall,REP,628,259,887
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,Cast Votes,,862,527,1389
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,Overvotes,,0,0,0
+Muskegon,"Cedar Creek Township, Precinct 1",State House,102,Unresolved,,0,0,0

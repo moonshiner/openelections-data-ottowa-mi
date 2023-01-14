@@ -1,0 +1,11 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Democratic,DEM,136,118,254
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Republican,REP,225,106,331
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Libertarian,LIB,4,2,6
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,0,0,0
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Working Class,WC,1,1,2
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Green,GRN,1,3,4
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Natural Law,NLP,0,0,0
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Cast Votes,,367,230,597
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Overvotes,,0,0,0
+Muskegon,"Laketon Township, Precinct 1",Straight Party,,Unresolved,,0,0,0

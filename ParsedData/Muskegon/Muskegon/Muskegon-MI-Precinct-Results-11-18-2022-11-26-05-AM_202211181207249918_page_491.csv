@@ -1,0 +1,27 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Dana Nessel,DEM,378,345,723
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Matthew DePerno,REP,307,171,478
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,15,5,20
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,8,1,9
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Cast Votes,,708,522,1230
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Overvotes,,1,0,1
+Muskegon,"City of North Muskegon, Precinct 1",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,,,,,
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,Jerry Hilliard,DEM,349,310,659
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,John Moolenaar,REP,332,202,534
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,Nathan Hewer,LIB,17,4,21
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,Cast Votes,,698,516,1214
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,Overvotes,,1,0,1
+Muskegon,"City of North Muskegon, Precinct 1",U.S. House,2,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,,,,,
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,Terry J. Sabo,DEM,372,325,697
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,Jon C. Bumstead,REP,342,197,539
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,Cast Votes,,714,522,1236
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,Overvotes,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 1",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,,,,,
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,Will Snyder,DEM,361,318,679
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,Michael L. Haueisen,REP,332,192,524
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,Cast Votes,,693,510,1203
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,Overvotes,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 1",State House,87,Unresolved,,0,0,0

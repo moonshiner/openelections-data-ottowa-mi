@@ -1,0 +1,28 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Dana Nessel,DEM,269,357,626
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Matthew DePerno,REP,153,104,257
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,"Joseph W. McHugh, Jr.",LIB,12,3,15
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Gerald T. Van Sickle,UST,4,3,7
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Cast Votes,,438,467,905
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Overvotes,,0,0,0
+Muskegon,"City of Muskegon, Precinct 11",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,,,,,
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Hillary Scholten,DEM,264,358,622
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,John Gibbs,REP,159,88,247
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Jamie Lewis,LIB,7,10,17
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Louis Palus,WC,9,10,19
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Cast Votes,,439,466,905
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Overvotes,,0,1,1
+Muskegon,"City of Muskegon, Precinct 11",U.S. House,3,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,,,,,
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,Terry J. Sabo,DEM,267,348,615
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,Jon C. Bumstead,REP,168,115,283
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,Cast Votes,,435,463,898
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,Overvotes,,0,1,1
+Muskegon,"City of Muskegon, Precinct 11",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 11",State House,87,,,,,
+Muskegon,"City of Muskegon, Precinct 11",State House,87,Will Snyder,DEM,269,349,618
+Muskegon,"City of Muskegon, Precinct 11",State House,87,Michael L. Haueisen,REP,157,112,269
+Muskegon,"City of Muskegon, Precinct 11",State House,87,Cast Votes,,426,461,887
+Muskegon,"City of Muskegon, Precinct 11",State House,87,Overvotes,,0,0,0
+Muskegon,"City of Muskegon, Precinct 11",State House,87,Unresolved,,0,0,0

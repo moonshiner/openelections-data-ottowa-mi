@@ -1,0 +1,27 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Dana Nessel,DEM,301,315,616
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Matthew DePerno,REP,431,154,585
+Muskegon,"City of Montague, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13,3,16
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,16,5,21
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Cast Votes,,761,477,1238
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Overvotes,,0,0,0
+Muskegon,"City of Montague, Precinct 1",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,,,,,
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,Jerry Hilliard,DEM,274,300,574
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,John Moolenaar,REP,466,168,634
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,Nathan Hewer,LIB,20,5,25
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,Cast Votes,,760,473,1233
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,Overvotes,,1,0,1
+Muskegon,"City of Montague, Precinct 1",U.S. House,2,Unresolved,,0,0,0
+Muskegon,"City of Montague, Precinct 1",State Senate,32,,,,,
+Muskegon,"City of Montague, Precinct 1",State Senate,32,Terry J. Sabo,DEM,298,302,600
+Muskegon,"City of Montague, Precinct 1",State Senate,32,Jon C. Bumstead,REP,466,174,640
+Muskegon,"City of Montague, Precinct 1",State Senate,32,Cast Votes,,764,476,1240
+Muskegon,"City of Montague, Precinct 1",State Senate,32,Overvotes,,0,0,0
+Muskegon,"City of Montague, Precinct 1",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of Montague, Precinct 1",State House,102,,,,,
+Muskegon,"City of Montague, Precinct 1",State House,102,Brian Hosticka,DEM,290,311,601
+Muskegon,"City of Montague, Precinct 1",State House,102,Curt VanderWall,REP,470,162,632
+Muskegon,"City of Montague, Precinct 1",State House,102,Cast Votes,,760,473,1233
+Muskegon,"City of Montague, Precinct 1",State House,102,Overvotes,,1,0,1
+Muskegon,"City of Montague, Precinct 1",State House,102,Unresolved,,0,0,0

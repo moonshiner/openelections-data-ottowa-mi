@@ -1,0 +1,11 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Democratic,DEM,190,187,377
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Republican,REP,247,130,377
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Libertarian,LIB,5,1,6
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,U.S. Taxpayers,UST,3,1,4
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Working Class,WC,3,1,4
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Green,GRN,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Natural Law,NLP,1,0,1
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Cast Votes,,449,320,769
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Overvotes,,1,0,1
+Muskegon,"City of Whitehall, Precinct 1",Straight Party,,Unresolved,,0,0,0

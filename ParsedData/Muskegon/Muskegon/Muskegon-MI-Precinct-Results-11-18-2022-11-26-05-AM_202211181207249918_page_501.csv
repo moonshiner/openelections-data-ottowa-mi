@@ -1,0 +1,28 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Dana Nessel,DEM,274,238,512
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Matthew DePerno,REP,329,174,503
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,"Joseph W. McHugh, Jr.",LIB,16,1,17
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Gerald T. Van Sickle,UST,3,1,4
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Cast Votes,,622,414,1036
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Overvotes,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,,,,,
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Hillary Scholten,DEM,284,239,523
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,John Gibbs,REP,335,176,511
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Jamie Lewis,LIB,12,3,15
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Louis Palus,WC,3,4,7
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Cast Votes,,634,422,1056
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Overvotes,,1,0,1
+Muskegon,"City of North Muskegon, Precinct 2",U.S. House,3,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,,,,,
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,Terry J. Sabo,DEM,274,229,503
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,Jon C. Bumstead,REP,357,194,551
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,Cast Votes,,631,423,1054
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,Overvotes,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,,,,,
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,Will Snyder,DEM,265,226,491
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,Michael L. Haueisen,REP,348,182,530
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,Cast Votes,,613,408,1021
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,Overvotes,,0,0,0
+Muskegon,"City of North Muskegon, Precinct 2",State House,87,Unresolved,,0,0,0

@@ -1,0 +1,11 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Democratic,DEM,84,135,219
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Republican,REP,367,211,578
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Libertarian,LIB,3,2,5
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,1,1,2
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Working Class,WC,3,1,4
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Green,GRN,1,0,1
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Natural Law,NLP,0,0,0
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Cast Votes,,459,350,809
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Overvotes,,0,1,1
+Muskegon,"Ravenna Township, Precinct 1",Straight Party,,Unresolved,,0,0,0

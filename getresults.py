@@ -10,13 +10,29 @@ import argparse
 
 # - Ottawa(and the rest of this format) count election day and absentee separate.
 
-# - Also in your example I don't see how you handle the under/over/rejected/unreseolved
+# DONE Also in your example I don't see how you handle the under/over/rejected/unreseolved
 # vote tallies.
 
 # - I have some mangled elected for school board (page 4 as an example). Have the code to drop it also
 # just not turned on
 
 # - Shorten Gov Candidate names
+
+AllOffices = {
+    "Straight Party Ticket": "Straight Party",
+    "Governor and Lieutenant Governor":  "Governor",
+    "Secretary of State": "Secretary of State",
+    "Attorney General": "Attorney General",
+    "Representative in Congress": "U.S. House",
+    "State Senator": "State Senate",
+    "Representative in State Legislature": "State House"
+}
+
+def isRace(text):
+    return next((True for k in AllOffices if text.startswith(k)), False)
+
+def shortRace(text):
+    return next((v for k,v in AllOffices.items() if text.startswith(k)), None)
 
 def readf(filename):
     with open(filename, encoding="ascii") as csvf:
@@ -33,14 +49,52 @@ def writef(filename, records):
         writer.writerows(records)
 
 class Race:
+    Offices = {
+        "Straight Party Ticket": "Straight Party",
+        "Governor and Lieutenant Governor":  "Governor",
+        "Secretary of State": "Secretary of State",
+        "Attorney General": "Attorney General",
+        "Representative in Congress": "U.S. House",
+        "State Senator": "State Senate",
+        "Representative in State Legislature": "State House"
+    }
+    ShortDistricts = ["U.S. House", "State House", "State Senate"]
 
-    def __init__(self):
+    DistrictRaces = [
+        "Representative in Congress",
+        "State Senator",
+        "Representative in State Legislature",
+    ]
+
+    def __init__(self, text):
         self.race = {}
+        self.district = None
+        self.office = self._shortOffice(text)
+        if self.office in self.ShortDistricts:
+            self.district = self._getDistrict(text)
+
+    def _getDistrict(self, text):
+        district = None
+        ans = next((d for d in self.DistrictRaces if text.startswith(d)), None)
+        if ans:
+            fields = text.replace(ans, '').split()
+            district = ''.join(list(fields[0])[:-2])
+            # print(f"ZZ, '{text}',  '{ans}' {fields} '{district}'")
+            self.add_item("district", district)
+        return district
+
+    def _shortOffice(self, text):
+        # If exists return the shortened versuion
+        ans = next((v for k,v in self.Offices.items() if text.startswith(k)), None)
+        if ans:
+            self.add_item("office", ans)
+        return ans
 
     def add_item(self, key, value):
         if key not in self.race:
             self.race[key] = value
-        # print(self.race)
+        else:
+            print(f"add_item: has key {key},{self.race.get(key)},{value}")
 
     def add_candidate(self, crecord):
         if not crecord:
@@ -76,13 +130,15 @@ class Candidate:
     def add_item(self, key, value):
         if key not in self.candidate:
             self.candidate[key] = value
+        else:
+            print(f"add_item: has key {key},{self.candidate.get(key)},{value}")
         # print(self.candidate)
 
     def getdict(self):
         return self.candidate
 
     def add_record(self, localrecord):
-        ckeys = ['candidate', 'party', 'election_day', 'absentee', 'total']
+        ckeys = ['c_name', 'party', 'election_day', 'absentee', 'total']
         if not localrecord:
             return
         if len(localrecord) == 5:
@@ -92,11 +148,11 @@ class Candidate:
         # print("add_record", self.candidate)
 
 class PageData:
-    DistrictRaces = [
-        "Representative in Congress",
-        "State Senator",
-        "Representative in State Legislature",
-    ]
+    # DistrictRaces = [
+    #     "Representative in Congress",
+    #     "State Senator",
+    #     "Representative in State Legislature",
+    # ]
     Offices = {
         "Straight Party Ticket": "Straight Party",
         "Governor and Lieutenant Governor":  "Governor",
@@ -116,24 +172,17 @@ class PageData:
     ]
     def __init__(self, args, alldata):
         self.args = args
-        self.input = []
         self.county = args.county
-        self.office = None
-        self.district = ""
-        self.AllRaces = []
         self.precinct = self.getPrecinct(alldata)
+        self.office = None
+        self.AllRaces = []
 
-    # self._log(self):
     def getPrecinct(self, alldata):
-        precinct = None
-        newdata = alldata.copy()
-        for r in newdata or []:
+        for r in alldata or []:
             if 'Precinct' in r[2]:
                 # print(f"Precinct: {r}")
-                precinct = r[2]
-                return precinct
-                # self.Record.setdefault("precinct", r[2])
-        return precinct
+                return r[2]
+        return None
 
     def getDistrict(self, text, ans):
         print(f"getDistrict: '{text}', '{ans}'")
@@ -223,9 +272,12 @@ class PageData:
         return None
 
 
-def printraces(infile, races):
-    ofile = infile.replace('PDF2CSV', 'ParsedData')
-    ckeys = ['candidate', 'party', 'election_day', 'absentee', 'total']
+def printraces(filename, outputdir, races):
+    basen = os.path.basename(filename)
+    fname = os.path.splitext(basen)[0]
+    ofile =  f"{outputdir}/{fname}.csv"
+    print(f"Output File: {ofile}")
+    ckeys = ['c_name', 'party', 'election_day', 'absentee', 'total']
     orecords = [['county','precinct','office','district','candidate','party',
         'election_day', 'absentee', 'total']]
     for r in races:
@@ -238,7 +290,10 @@ def printraces(infile, races):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('county', help="Name of County")
-    parser.add_argument('inputdir', help="Input PDF")
+    parser.add_argument('inputdir', help="Input CSV Directory (PDFs2CSV)")
+    parser.add_argument('outputdir', help="Output Parsed Results Directory (ParsedData)")
+    parser.add_argument('--writefiles', action='store_true', default=True, help="write files")
+    parser.add_argument('--overwrite', action='store_true', help="overwrite file")
     parser.add_argument('--verbose', action='store_true', help="verbose")
     args = parser.parse_args()
 
@@ -248,8 +303,8 @@ def main():
     for infile in Files or []:
         records = readf(infile)
         pageresults = PageData(args, records)
-        # races = pagedata.parsefile(list(records))
-        # printraces(infile, races)
+        races = pageresults.parsefile(list(records))
+        printraces(infile, args.outputdir, races)
 
 if __name__ == "__main__":
     main()

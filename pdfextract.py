@@ -7,10 +7,23 @@ import argparse
 import csv
 from PyPDF2 import PdfReader, PdfWriter
 
-class TextData:
-    def __init__(self):
+class PDFText:
+    Offices = ("Straight Party Ticket",
+        "Governor and Lieutenant Governor",
+        "Secretary of State",
+        "Attorney General",
+        "Representative in Congress",
+        "State Senator",
+        "Representative in State Legislature")
+
+    def __init__(self, args):
+        self.args = args
         self.prev_xy = (0.0,0.0)
         self.textdata = []
+
+    def _log(self, logmsg):
+        if self.args.verbose:
+            print(logmsg)
 
     @staticmethod
     def mkof(filename, outdir):
@@ -19,18 +32,11 @@ class TextData:
         return f"{outdir}/{fname}.csv"
 
     def validpage(self):
-        strchk = ("Straight Party Ticket",
-            "Governor and Lieutenant Governor",
-            "Secretary of State",
-            "Attorney General",
-            "Representative in Congress",
-            "State Senator",
-            "Representative in State Legislature")
-        return next((True for l in self.textdata if l[2].startswith(strchk)), False)
+        return next((True for l in self.textdata if l[2].startswith(self.Offices)), False)
 
-    def write_details(self, filename):
-        print(f"Writing: {filename}")
-        with open(filename, "w", encoding="ascii") as csvfile:
+    def writef(self, filename):
+        self._log(f"Writing: {filename}")
+        with open(filename, "w", encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile, delimiter=',',
                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(['x','y','text'])
@@ -46,29 +52,32 @@ class TextData:
     def visitor(self, text, cm, tm, fontDict, fontSize):
         text = text.replace('\n', '')
         cur_xy = (tm[4],tm[5])
+        self._log(f"cur_xy={cur_xy[0]},{cur_xy[1]} prev_xy={self.prev_xy[0]},{self.prev_xy[1]}, '{text}'")
         if cur_xy == (0.0, 0.0) and not text:
+            self._log("cur_xy == 0 and !text")
+            # self.prev_xy = cur_xy
             return
         if cur_xy == self.prev_xy and not text:
+            self._log("cur_xy == prev_xy and !text")
+            # self.prev_xy = cur_xy
             return
         self.details(cur_xy, text)
 
 def main():
     parser = argparse.ArgumentParser()
-    # parser.add_argument('county', help="Name of County")
-    parser.add_argument('inputdir', help="Directory of PDF Files")
-    parser.add_argument('outputdir', help="Output Directory")
+    parser.add_argument('inputdir', help="Directory of PDF Files (SplitPDFs)")
+    parser.add_argument('outputdir', help="Output CSV Directory (PDFs2CSV)")
+    parser.add_argument('--writefiles', action='store_true', default=True, help="write files")
+    parser.add_argument('--overwrite', action='store_true', help="overwrite files")
     parser.add_argument('--verbose', action='store_true', help="verbose")
     args = parser.parse_args()
 
-    Files = []
-    for file in os.listdir(args.inputdir):
-        if file.endswith('.pdf'):
-            Files.append(f"{args.inputdir}/{file}")
+    Files = [f"{args.inputdir}/{file}" for file in os.listdir(args.inputdir)
+             if file.endswith(".pdf")]
     Files.sort()
 
     for infile in Files or []:
-        Line = TextData()
-        # print(f"Reading: {infile}")
+        Line = PDFText(args)
         reader = PdfReader(infile)
         page = reader.pages[0]
         page.extract_text(visitor_text=Line.visitor)
@@ -77,9 +86,12 @@ def main():
             print(f"Skipping Not Relevant: {infile}")
             continue
 
-        ofile = Line.mkof(infile, args.outputdir)
-        Line.write_details(ofile)
-
+        output_filename = Line.mkof(infile, args.outputdir)
+        if os.path.exists(output_filename) and not args.overwrite:
+            print(f'Will Not Overwrite: {output_filename}')
+            continue
+        if args.writefiles:
+            Line.writef(output_filename)
 
 if __name__ == '__main__':
     main()

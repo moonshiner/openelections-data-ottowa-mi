@@ -1,0 +1,27 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Dana Nessel,DEM,398,349,747
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Matthew DePerno,REP,450,212,662
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,"Joseph W. McHugh, Jr.",LIB,24,10,34
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Gerald T. Van Sickle,UST,13,7,20
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Cast Votes,,885,578,1463
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Overvotes,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,,,,,
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,Jerry Hilliard,DEM,363,316,679
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,John Moolenaar,REP,490,233,723
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,Nathan Hewer,LIB,24,17,41
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,Cast Votes,,877,566,1443
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,Overvotes,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",U.S. House,2,Unresolved,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,,,,,
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,Terry J. Sabo,DEM,376,322,698
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,Jon C. Bumstead,REP,508,255,763
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,Cast Votes,,884,577,1461
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,Overvotes,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",State House,102,,,,,
+Muskegon,"City of Whitehall, Precinct 1",State House,102,Brian Hosticka,DEM,392,332,724
+Muskegon,"City of Whitehall, Precinct 1",State House,102,Curt VanderWall,REP,495,248,743
+Muskegon,"City of Whitehall, Precinct 1",State House,102,Cast Votes,,887,580,1467
+Muskegon,"City of Whitehall, Precinct 1",State House,102,Overvotes,,0,0,0
+Muskegon,"City of Whitehall, Precinct 1",State House,102,Unresolved,,0,0,0
