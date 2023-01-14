@@ -1,0 +1,17 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Kim S. Nagy,DEM,101,72,173
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Roger Victory,REP,336,71,407
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Jessica L. Fox,LIB,8,5,13
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Cast Votes,,445,148,593
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Undervotes,,11,2,13
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Overvotes,,0,0,0
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Rejected,,1,0,1
+Ottawa,"City of Zeeland, Precinct 1",State Senate,31,Unresolved,,0,0,0
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Todd Avery,DEM,97,69,166
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Bradley Slagh,REP,342,77,419
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Greg Parlmer II,LIB,10,2,12
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Cast Votes,,449,148,597
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Undervotes,,8,2,10
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Overvotes,,0,0,0
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Rejected,,0,0,0
+Ottawa,"City of Zeeland, Precinct 1",State House,85,Unresolved,,0,0,0

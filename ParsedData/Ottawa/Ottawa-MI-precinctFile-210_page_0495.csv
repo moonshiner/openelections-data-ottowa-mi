@@ -1,0 +1,17 @@
+county,precinct,office,district,candidate,party,election_day,absentee,total
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Kim S. Nagy,DEM,305,303,608
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Roger Victory,REP,809,353,1162
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Jessica L. Fox,LIB,23,11,34
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Cast Votes,,1137,667,1804
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Undervotes,,34,19,53
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Overvotes,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Rejected,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 1B",State Senate,31,Unresolved,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Todd Avery,DEM,311,312,623
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Bradley Slagh,REP,798,342,1140
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Greg Parlmer II,LIB,17,7,24
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Cast Votes,,1126,661,1787
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Undervotes,,44,25,69
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Overvotes,,0,0,0
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Rejected,,1,0,1
+Ottawa,"Georgetown Charter Township, Precinct 1B",State House,85,Unresolved,,0,0,0
