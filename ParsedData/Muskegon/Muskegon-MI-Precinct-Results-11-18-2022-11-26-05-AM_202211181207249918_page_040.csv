@@ -1,1 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Democratic,DEM,111,107,218
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Republican,REP,213,36,249
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Libertarian,LIB,0,1,1
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,U.S. Taxpayers,UST,1,1,2
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Working Class,WC,4,0,4
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Green,GRN,0,0,0
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Natural Law,NLP,1,0,1
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Cast Votes,,330,145,475
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Overvotes,,0,0,0
+Muskegon,"Dalton Township, Precinct 2",Straight Party,,Unresolved,,0,0,0

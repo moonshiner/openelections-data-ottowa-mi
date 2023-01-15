@@ -1,1 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Democratic,DEM,172,188,360
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Republican,REP,153,93,246
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Libertarian,LIB,3,0,3
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2,0,2
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Working Class,WC,1,2,3
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Green,GRN,1,0,1
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Natural Law,NLP,0,1,1
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Cast Votes,,332,284,616
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Overvotes,,1,0,1
+Muskegon,"City of North Muskegon, Precinct 1",Straight Party,,Unresolved,,0,0,0

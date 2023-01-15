@@ -1,1 +1,11 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Democratic,DEM,140,163,303
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Republican,REP,155,68,223
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Libertarian,LIB,3,2,5
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,U.S. Taxpayers,UST,2,1,3
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Working Class,WC,1,1,2
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Green,GRN,1,0,1
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Natural Law,NLP,1,0,1
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Cast Votes,,303,235,538
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Overvotes,,0,0,0
+Muskegon,"Muskegon Charter Township, Precinct 1",Straight Party,,Unresolved,,0,0,0

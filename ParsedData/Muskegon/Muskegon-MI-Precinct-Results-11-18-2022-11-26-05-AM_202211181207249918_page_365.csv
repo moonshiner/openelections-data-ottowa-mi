@@ -1,1 +1,28 @@
 county,precinct,office,district,candidate,party,election_day,absentee,total
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Dana Nessel,DEM,312,223,535
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Matthew DePerno,REP,52,19,71
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,"Joseph W. McHugh, Jr.",LIB,13,3,16
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Gerald T. Van Sickle,UST,9,4,13
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Cast Votes,,386,249,635
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Overvotes,,0,1,1
+Muskegon,"City of Muskegon, Precinct 5",Attorney General,,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,,,,,
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Hillary Scholten,DEM,310,220,530
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,John Gibbs,REP,56,17,73
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Jamie Lewis,LIB,7,1,8
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Louis Palus,WC,13,10,23
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Cast Votes,,386,248,634
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Overvotes,,0,2,2
+Muskegon,"City of Muskegon, Precinct 5",U.S. House,3,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,,,,,
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,Terry J. Sabo,DEM,320,226,546
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,Jon C. Bumstead,REP,59,23,82
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,Cast Votes,,379,249,628
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,Overvotes,,0,1,1
+Muskegon,"City of Muskegon, Precinct 5",State Senate,32,Unresolved,,0,0,0
+Muskegon,"City of Muskegon, Precinct 5",State House,87,,,,,
+Muskegon,"City of Muskegon, Precinct 5",State House,87,Will Snyder,DEM,318,227,545
+Muskegon,"City of Muskegon, Precinct 5",State House,87,Michael L. Haueisen,REP,58,21,79
+Muskegon,"City of Muskegon, Precinct 5",State House,87,Cast Votes,,376,248,624
+Muskegon,"City of Muskegon, Precinct 5",State House,87,Overvotes,,0,0,0
+Muskegon,"City of Muskegon, Precinct 5",State House,87,Unresolved,,0,0,0
