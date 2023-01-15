@@ -5,25 +5,13 @@ This repo works on parsing and processing the Ottowa MI election data.
 This work uses data from
 https://github.com/openelections/openelections-data-mi/issues/56
 
-## Multiple Counties use this format
+## Completed
 
-- Genesee
-- Livingston
-- Montcalm
-- Muskegon
-- Ottawa
+Keweenaw-MI-totals.csv
+Muskegon-MI-Totals.csv
+Ottawa-MI-Totals.csv
 
-The Ottowa MI data from 2022 General is 1438 Pages!
-2/3 of the pages involve local races, which we ignore.
-
-## Splitting the PDF
-
-splitpdf.py uses pyPDF2 to read in the PDF and write out each page as a
-seperate file. Additionaly it has a check to see if the page contains
-results for the relevanct races, and writes those only.
-
-
-# commands
+## commands
 
 splitpdf.py         Takes a single PDF file and splits it into a dir of 1 page PDFs
 
@@ -31,8 +19,10 @@ splitpdf.py         Takes a single PDF file and splits it into a dir of 1 page P
 pdfextract.py         Parse a single page PDF and extract the text (and poisitions
                     the page).  Write out the extract CSV file
 
-getresults.py         Reads an extracted CSV file from above and generate the
+ottawa-results.py         Reads an extracted CSV file from above and generate the
                     Election Results CSV
+
+muskegon-results.py
 
 
 ### Outstanding Issues
@@ -47,9 +37,9 @@ getresults.py         Reads an extracted CSV file from above and generate the
 - Also in your example I don't see how you handle the under/over/rejected/unreseolved
  vote tallies.
 
-- I have some mangled elected for school board (page 4 as an example). Have the code to drop it also
+- DONE I have some mangled elected for school board (page 4 as an example). Have the code to drop it also
  just not turned on
 
-- Shorten Gov Candidate names
+- DONE Shorten Gov Candidate names
 
 
