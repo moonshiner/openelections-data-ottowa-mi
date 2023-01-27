@@ -1,0 +1,77 @@
+{
+    "Straight": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_001.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_002.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_003.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_004.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_005.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_006.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_007.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_008.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_009.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_010.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_011.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_012.csv"
+    ],
+    "Governor": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_013.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_014.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_016.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_017.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_019.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_020.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_022.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_023.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_025.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_026.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_028.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_029.csv"
+    ],
+    "SoS": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_031.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_033.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_035.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_037.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_039.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_041.csv"
+    ],
+    "AG": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_043.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_045.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_047.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_049.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_051.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_053.csv"
+    ],
+    "USHouse7": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_055.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_057.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_059.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_061.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_063.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_065.csv"
+    ],
+    "StateSenate37": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_067.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_069.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_071.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_073.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_075.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_077.csv"
+    ],
+    "StateHouse48": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_079.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_081.csv"
+    ],
+    "StateHouse49": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_083.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_085.csv"
+    ],
+    "StateHouse50": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_087.csv",
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_089.csv"
+    ],
+    "StateHouse72": [
+        "PDFs2CSV/Livingston/Livingston-MI-Statement-of-Votes-Cast-Report_page_091.csv"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Straight": [
+        "Democratic Party, DEM",
+        "Republican Party, REP",
+        "Libertarian Party, LIB",
+        "U.S. Taxpayers Party, UST",
+        "Working Class Party, WCP",
+        "Green Party, GRN",
+        "Natural Law Party, NLP"
+    ],
+    "Governor": [
+        "Gretchen Whitmer Garlin D.",
+        "Gilchrist II, DEM",
+        "Tudor M. Dixon Shane",
+        "Hernandez, REP",
+        "Mary Buzuma Brian Ellison, LIB",
+        "Donna Brandenburg Mellissa",
+        "Carone, UST",
+        "Kevin Hogan Destiny Clayton,",
+        "GRN",
+        "Daryl M. Simpson Doug Dern,",
+        "NLP",
+        "Bob Scott (W)",
+        "Elizabeth Ann Adkisson (W)",
+        "Ervin Joseph Lamie (W)",
+        "Eugene Rosell Hunt Jr. (W)",
+        "Evan S. Space (W)",
+        "Joseph Irving (W)"
+    ],
+    "SoS": [
+        "Jocelyn Benson, DEM",
+        "Kristina Elaine Karamo, REP",
+        "Gregory Scott Stempfle, LIB",
+        "Christine C. Schwartz, UST",
+        "Larry James Hutchinson Jr., GRN"
+    ],
+    "AG": [
+        "Dana Nessel, DEM",
+        "Matthew DePerno, REP",
+        "Joseph W. McHugh Jr., LIB",
+        "Gerald T. Van Sickle, UST"
+    ],
+    "USHouse7": [
+        "Elissa Slotkin, DEM",
+        "Tom Barrett, REP",
+        "Leah R. Dailey, LIB"
+    ],
+    "StateSenate37": [
+        "Jordan Genso, DEM",
+        "Lana L. Theis, REP",
+        "Jon Elgas, LIB",
+        "Victoria McCasey, UST"
+    ],
+    "StateHouse48": [
+        "Jennifer Conlin, DEM",
+        "Jason Woolford, REP",
+        "Eric Borregard, GRN"
+    ],
+    "StateHouse50": [
+        "Glen Miller, DEM",
+        "Robert J. Bezotte, REP"
+    ],
+    "StateHouse72": [
+        "Stacy Taylor, DEM",
+        "Mike Mueller, REP"
+    ],
+    "StateHouse49": [
+        "Christina M. Kafkakis, DEM",
+        "Ann Bollin, REP"
+    ]
+}
